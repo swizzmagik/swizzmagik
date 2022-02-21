@@ -30,12 +30,6 @@ I am an experienced *Enterprise Solutions Architect* and *Full Stack Developer* 
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swizzmagik&theme=vue)
 
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=swizzmagik)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=swizzmagik)
-
-
-
 
  
 <!--
