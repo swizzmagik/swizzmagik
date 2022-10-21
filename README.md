@@ -7,7 +7,6 @@ I am an experienced *Full Stack Developer* and *Solutions Architect* who is curr
 ![Blockchain](https://badgen.net/badge/Blockchain/|/cyan "Blockchain")
 ![React](https://badgen.net/badge/React/|/green "React")
 ![Web3](https://badgen.net/badge/Web3/|/yellow "Web3")
-![Cryptocurrency](https://badgen.net/badge/Cryptocurrency/|/red "Cryptocurrency")
 ![Javascript](https://badgen.net/badge/Javascript/|/yellow "Javascript")
 ![Node.js](https://badgen.net/badge/Node.JS/|/green "Node.js")
 ![Azure](https://badgen.net/badge/Azure/|/blue "AWS")
