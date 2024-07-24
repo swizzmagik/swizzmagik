@@ -1,6 +1,6 @@
 ### Hello 👋, I'm Brandon.
 
-I am an experienced *Full Stack Developer* and *Solutions Architect* who is currently tumbling down the rabbit hole of *Web3 Programming* building on Cosmos, Ethereum,  and Solana. I successfully quit my day job to commit my efforts and time to my relentless pursuit of next generation technologies. I have a broad range of software development skills augmented by in-depth knowledge of cloud infrastructure architecture and server configuration patterns. I have a proven background in project leadership and communication, allowing me to confidently achieve any business goal. I am also a devoted husband, father, and friend. 
+I am an experienced *Full Stack Developer* and *Solutions Architect* currently tumbling down the rabbit hole of *Web3 Programming* building on Cosmos, Ethereum,  and Solana. I commit my efforts and time to my relentless pursuit of next-generation technologies. I have a broad range of software development skills augmented by in-depth knowledge of cloud infrastructure architecture and server configuration patterns. I have a proven background in project leadership and communication, allowing me to achieve any business goal confidently. I am also a devoted husband, father, and friend. 
 
 #### 🔭 Focus Areas
 
