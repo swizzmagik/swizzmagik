@@ -1,6 +1,6 @@
 ### Hello 👋, I'm Brandon.
 
-I am an experienced *Full Stack Developer* and *Solutions Architect* currently build faster than ever with the latest AI powered development processes. I believe in commiting my time and efforts to causes that help people and make a positive impact on the world using next-generation technologies. I have a broad range of software development skills augmented by in-depth knowledge of cloud infrastructure architecture and server configuration patterns. I have a proven background in project leadership and communication, allowing me to achieve any business goal confidently. 
+I am an experienced *Full Stack Developer* and *Solutions Architect* currently building faster than ever with the latest AI-powered development processes. I believe in commiting my time and efforts to causes that improve lives and make a positive impact on the world. I have a broad range of software development skills augmented by in-depth knowledge of cloud infrastructure architecture and server configuration patterns. I have a proven background in project leadership and communication, allowing me confidently achieve any business goal. 
 
 #### 🔭 Focus Areas
 
