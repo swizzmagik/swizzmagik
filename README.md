@@ -25,7 +25,7 @@ I believe that technology should improve lives and create positive change. That 
 - LinkedIn: [@swizzmagik](https://www.linkedin.com/in/swizzmagik/)
 - Telegram: [@swizzmagik](https://t.me/swizzmagik)
 - Twitter: [@swizzmagik](https://twitter.com/swizzmagik)
-- Email: [b@exct.io](mailto:b@exct.io)
+- Email: [bjohnson@swizzmagik.com](mailto:bjohnson@swizzmagik.com)
 
 #### Activity
 
